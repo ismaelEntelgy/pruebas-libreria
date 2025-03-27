@@ -110,9 +110,9 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.2.12", ngImpo
         }] });
 
 // import { HeaderModule } from 'src/app/demo/components/pages/header/header.module';
-class VolantesICAMModule {
-    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: VolantesICAMModule, deps: [], target: i0.ɵɵFactoryTarget.NgModule }); }
-    static { this.ɵmod = i0.ɵɵngDeclareNgModule({ minVersion: "14.0.0", version: "16.2.12", ngImport: i0, type: VolantesICAMModule, declarations: [PruebaVolantesComponent], imports: [CommonModule,
+class PruebaVolantesModule {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: PruebaVolantesModule, deps: [], target: i0.ɵɵFactoryTarget.NgModule }); }
+    static { this.ɵmod = i0.ɵɵngDeclareNgModule({ minVersion: "14.0.0", version: "16.2.12", ngImport: i0, type: PruebaVolantesModule, declarations: [PruebaVolantesComponent], imports: [CommonModule,
             FormsModule,
             InputTextareaModule,
             PruebaVolantesRoutingModule,
@@ -130,7 +130,7 @@ class VolantesICAMModule {
             MegaMenuModule,
             MenubarModule,
             StepsModule], exports: [PruebaVolantesComponent] }); }
-    static { this.ɵinj = i0.ɵɵngDeclareInjector({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: VolantesICAMModule, imports: [CommonModule,
+    static { this.ɵinj = i0.ɵɵngDeclareInjector({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: PruebaVolantesModule, imports: [CommonModule,
             FormsModule,
             InputTextareaModule,
             PruebaVolantesRoutingModule,
@@ -149,7 +149,7 @@ class VolantesICAMModule {
             MenubarModule,
             StepsModule] }); }
 }
-i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: VolantesICAMModule, decorators: [{
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: PruebaVolantesModule, decorators: [{
             type: NgModule,
             args: [{
                     imports: [
@@ -190,5 +190,5 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.2.12", ngImpo
  * Generated bundle index. Do not edit.
  */
 
-export { PruebaVolantesComponent, VolantesICAMModule };
+export { PruebaVolantesComponent, PruebaVolantesModule };
 //# sourceMappingURL=pruebavolantes.mjs.map

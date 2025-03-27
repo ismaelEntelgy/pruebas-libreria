@@ -16,8 +16,8 @@ import * as i14 from "primeng/menu";
 import * as i15 from "primeng/megamenu";
 import * as i16 from "primeng/menubar";
 import * as i17 from "primeng/steps";
-export declare class VolantesICAMModule {
-    static ɵfac: i0.ɵɵFactoryDeclaration<VolantesICAMModule, never>;
-    static ɵmod: i0.ɵɵNgModuleDeclaration<VolantesICAMModule, [typeof i1.PruebaVolantesComponent], [typeof i2.CommonModule, typeof i3.FormsModule, typeof i4.InputTextareaModule, typeof i5.PruebaVolantesRoutingModule, typeof i6.ButtonModule, typeof i7.RippleModule, typeof i8.InputTextModule, typeof i9.DataViewModule, typeof i10.PickListModule, typeof i11.OrderListModule, typeof i12.DropdownModule, typeof i13.RatingModule, typeof i6.ButtonModule, typeof i14.MenuModule, typeof i15.MegaMenuModule, typeof i16.MenubarModule, typeof i17.StepsModule], [typeof i1.PruebaVolantesComponent]>;
-    static ɵinj: i0.ɵɵInjectorDeclaration<VolantesICAMModule>;
+export declare class PruebaVolantesModule {
+    static ɵfac: i0.ɵɵFactoryDeclaration<PruebaVolantesModule, never>;
+    static ɵmod: i0.ɵɵNgModuleDeclaration<PruebaVolantesModule, [typeof i1.PruebaVolantesComponent], [typeof i2.CommonModule, typeof i3.FormsModule, typeof i4.InputTextareaModule, typeof i5.PruebaVolantesRoutingModule, typeof i6.ButtonModule, typeof i7.RippleModule, typeof i8.InputTextModule, typeof i9.DataViewModule, typeof i10.PickListModule, typeof i11.OrderListModule, typeof i12.DropdownModule, typeof i13.RatingModule, typeof i6.ButtonModule, typeof i14.MenuModule, typeof i15.MegaMenuModule, typeof i16.MenubarModule, typeof i17.StepsModule], [typeof i1.PruebaVolantesComponent]>;
+    static ɵinj: i0.ɵɵInjectorDeclaration<PruebaVolantesModule>;
 }
